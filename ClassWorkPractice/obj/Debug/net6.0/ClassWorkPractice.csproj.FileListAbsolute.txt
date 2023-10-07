@@ -1,0 +1,15 @@
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/obj/Debug/net6.0/ClassWorkPractice.csproj.AssemblyReference.cache
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/obj/Debug/net6.0/ClassWorkPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/obj/Debug/net6.0/ClassWorkPractice.AssemblyInfoInputs.cache
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/obj/Debug/net6.0/ClassWorkPractice.AssemblyInfo.cs
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/obj/Debug/net6.0/ClassWorkPractice.csproj.CoreCompileInputs.cache
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/bin/Debug/net6.0/ClassWorkPractice
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/bin/Debug/net6.0/ClassWorkPractice.deps.json
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/bin/Debug/net6.0/ClassWorkPractice.runtimeconfig.json
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/bin/Debug/net6.0/ClassWorkPractice.dll
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/bin/Debug/net6.0/ClassWorkPractice.pdb
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/obj/Debug/net6.0/ClassWorkPractice.dll
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/obj/Debug/net6.0/refint/ClassWorkPractice.dll
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/obj/Debug/net6.0/ClassWorkPractice.pdb
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/obj/Debug/net6.0/ClassWorkPractice.genruntimeconfig.cache
+/Users/tunzale/Projects/ClassWorkPractice/ClassWorkPractice/obj/Debug/net6.0/ref/ClassWorkPractice.dll

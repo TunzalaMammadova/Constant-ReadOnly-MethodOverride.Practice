@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{37BAEDB1-0E0B-4F36-A26A-18452E01CC4C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ClassWorkPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassWorkPractice/Program.cs">
+    <Files>
+      <File FileName="ClassWorkPractice/Program.cs" Line="27" Column="14" />
+      <File FileName="ClassWorkPractice/Models/Person.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassWorkPractice" expanded="True">
+            <Node name="ClassWorkPractice" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="Constants" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
